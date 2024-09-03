@@ -42,7 +42,7 @@ The reward function assigns rewards based on the effectiveness of the chosen act
 
 ### Graphical Representation
 
-![WhatsApp Image 2024-09-03 at 16 33 51_cad4ad2e](https://github.com/user-attachments/assets/1576ca9e-b2f6-45d5-a1e4-b630f7becf9b)
+(https://github.com/user-attachments/assets/1576ca9e-b2f6-45d5-a1e4-b630f7becf9b)
 
 
 ## PYTHON REPRESENTATION:
@@ -60,31 +60,6 @@ The reward function assigns rewards based on the effectiveness of the chosen act
 The MDP simulation successfully detects road blockages and determines optimal actions for avoiding blocked roads. The rewards indicate the efficiency of the chosen routes, helping vehicles reach their destinations while minimizing delays due to road blockages.
 
 
-## PROBLEM STATEMENT:
-
-### Problem Description
-Write your answer here
-
-### State Space
-Write your answer here
-
-### Sample State
-Write your answer here
-
-### Action Space
-Write your answer here
-
-### Sample Action
-Write your answer here
-
-### Reward Function
-Write your answer here
-
-### Graphical Representation
-Write your answer here
-
-## PYTHON REPRESENTATION:
-Write your code here
 
 ## OUTPUT:
 Write your Python output here
