@@ -61,9 +61,3 @@ The MDP simulation successfully detects road blockages and determines optimal ac
 
 
 
-## OUTPUT:
-Write your Python output here
-
-## RESULT:
-Write your output here
-
