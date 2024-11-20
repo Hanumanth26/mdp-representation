@@ -1,7 +1,4 @@
-# MDP REPRESENTATION
 
-## AIM:
-Write your aim here
 # MDP REPRESENTATION
 
 ## AIM:
