@@ -5,12 +5,14 @@ Write your aim here
 # MDP REPRESENTATION
 
 ## AIM:
+### To represent an optimal decision-making strategy for an umpire in a sports game into a Markov Decision Process (MDP) form
 
 To create a MDP (Markov Decision Process) for the undertaken problem statement
 
 ## PROBLEM STATEMENT:
 
 ### Problem Description
+### An umpire in a sports game needs to make decisions based on the current game state, which includes the game score and the number of fouls. The umpire can either provide a score or not and call a foul or not. The aim is to determine the optimal decision-making strategy for the umpire to maximize the reward, where positive rewards are given for correct actions that align with the game rules.
 
 The problem involves detecting road blockages in a city. The goal is to identify the optimal path for vehicles to take when a road blockage occurs. The environment is modeled as a Markov Decision Process, where states represent road conditions, actions represent possible routes or decisions, and rewards are based on reaching a destination efficiently.
 
